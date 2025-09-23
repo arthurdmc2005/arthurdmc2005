@@ -60,7 +60,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=6272a4)](mailto:arthurdiasmoreiracorrea@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=6272a4)](https://www.instagram.com/arthur.dmc/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=6272a4)](www.linkedin.com/in/arthur-moreiradmc)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=6272a4)](https://www.linkedin.com/in/arthur-moreiradmc)
   
 </div>
 
