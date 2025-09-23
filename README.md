@@ -11,10 +11,6 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=Eu+sou+um+estudante+de+Sistemas+de+Informação;Desenvolvedor+JAVA!" alt="Typing SVG"/>
-</div>
-
 
 <br>
       
@@ -76,7 +72,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Farthurdmc2005&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Farthurdmc2005&s=30&c=282a36&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
 <br>
