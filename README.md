@@ -55,7 +55,7 @@ Me chamo Arthur Dias Moreira Correa, tenho 20 anos e sou natural de Minas Gerais
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgres/postgres-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <img 
