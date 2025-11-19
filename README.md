@@ -14,7 +14,6 @@ Me chamo Arthur Dias Moreira Correa, tenho 20 anos e sou natural de Minas Gerais
             src="https://custom-icon-badges.demolab.com/github/stars/arthurdmc2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -56,7 +55,7 @@ Me chamo Arthur Dias Moreira Correa, tenho 20 anos e sou natural de Minas Gerais
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgres/postgres-original.svg" 
 />
 
 <img 
@@ -65,7 +64,7 @@ Me chamo Arthur Dias Moreira Correa, tenho 20 anos e sou natural de Minas Gerais
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 <img 
     align="left" 
