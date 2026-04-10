@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arthur%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20FullStack%20%7C%20Back-End%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arthur%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Back-End%20%7C%20Java%20%26%20Spring%20Framework&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+Dias+%F0%9F%91%8B;Desenvolvedor+FullStack+apaixonado;Estudante+de+Sistemas+de+Informa%C3%A7%C3%B5es+%7C+UFVJM;Back-End+%7C+Java+%7C+Spring+Framework)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+Dias+%F0%9F%91%8B;Desenvolvedor+Back-End+apaixonado;Estudante+de+Sistemas+de+Informa%C3%A7%C3%B5es+%7C+UFVJM;Java+%7C+Spring+Framework+%7C+APIs+RESTful)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,21 +28,27 @@
 public class Arthur extends Developer {
 
     String nome        = "Arthur Dias Moreira Correa";
-    int    idade       = 20;
+    int    idade       = 21;
     String localidade  = "Minas Gerais, Brasil 🇧🇷";
     String faculdade   = "Sistemas de Informações — UFVJM";
-    String foco        = "Back-End Development";
+    String foco        = "Back-End Development 🔧";
     String ingles      = "Básico (A2)";
 
-    String[] interesses = {
+    String[] especialidades = {
         "Java & Spring Framework",
-        "Banco de Dados (PostgreSQL, SQLite)",
         "APIs RESTful",
-        "Metodologias Ágeis",
-        "Open Source"
+        "Banco de Dados (PostgreSQL, SQLite)",
+        "Arquitetura de Software",
+        "Metodologias Ágeis (Scrum/Kanban)"
     };
 
-    String objetivo = "Crescer como desenvolvedor e construir software que faça diferença.";
+    String[] conhecimentosComplementares = {
+        "HTML, CSS, JavaScript",  // apoio ao back-end quando necessário
+        "TypeScript (básico)",
+        "Git & GitHub"
+    };
+
+    String objetivo = "Construir sistemas robustos, escaláveis e bem estruturados.";
 }
 ```
 
@@ -50,7 +56,7 @@ public class Arthur extends Developer {
 
 ## 🚀 Linguagens & Tecnologias
 
-### 🔧 Back-End
+### ⚙️ Back-End — Foco Principal
 <p align="left">
   <img alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img alt="Spring" title="Spring Framework" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
@@ -58,7 +64,7 @@ public class Arthur extends Developer {
   <img alt="SQLite" title="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 </p>
 
-### 🌐 Front-End
+### 🌐 Front-End — Conhecimento Complementar
 <p align="left">
   <img alt="HTML5" title="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS3" title="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -103,14 +109,32 @@ public class Arthur extends Developer {
 
 ---
 
-## 🏆 Troféus do GitHub
+## 🗂️ Projetos em Destaque
+
+> ✏️ **Substitua** `NOME-DO-REPO` pelo nome exato dos seus repositórios no GitHub.
 
 <div align="center">
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=arthurdmc2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" 
-  alt="GitHub Trophies"
-/>
+<a href="https://github.com/arthurdmc2005/Academic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=NOME-DO-REPO-1&theme=tokyonight&border_radius=10&show_description=true" />
+</a>
+&nbsp;
+<a href="https://github.com/arthurdmc2005/Projeto-POO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=NOME-DO-REPO-2&theme=tokyonight&border_radius=10&show_description=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/arthurdmc2005/Twitter-Simplificado">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=NOME-DO-REPO-3&theme=tokyonight&border_radius=10&show_description=true" />
+</a>
+&nbsp;
+
+<br/><br/>
+
+<a href="https://github.com/arthurdmc2005?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0096c7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -152,8 +176,8 @@ public class Arthur extends Developer {
   <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/seu-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/arthur-moreiradmc/">
+  <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Dias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
