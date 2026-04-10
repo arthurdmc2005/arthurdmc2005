@@ -111,29 +111,66 @@ public class Arthur extends Developer {
 
 ## 🗂️ Projetos em Destaque
 
-
 <div align="center">
-
-<a href="https://github.com/arthurdmc2005/Academic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=Academic&theme=tokyonight&border_radius=10&show_description=true" />
-</a>
-&nbsp;
-<a href="https://github.com/arthurdmc2005/Projeto-POO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=Projeto-POO&theme=tokyonight&border_radius=10&show_description=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/arthurdmc2005/Twiiter-Simplificado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=Twiiter-Simplificado&theme=tokyonight&border_radius=10&show_description=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/arthurdmc2005?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0096c7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Academic</h3>
+      <p align="center">
+        Repositório acadêmico com exercícios, projetos e estudos desenvolvidos ao longo do curso de Sistemas de Informação na UFVJM.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Acadêmico-6c757d?style=for-the-badge&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/arthurdmc2005/Academic">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ Projeto-POO</h3>
+      <p align="center">
+        Projeto desenvolvido com foco em Programação Orientada a Objetos, aplicando conceitos de herança, encapsulamento e polimorfismo.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/POO-0096c7?style=for-the-badge&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/arthurdmc2005/Projeto-POO">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐦 Twiiter-Simplificado</h3>
+      <p align="center">
+        Simulação simplificada de uma rede social no estilo Twitter, com funcionalidades de postagem e interação entre usuários.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Back--End-2c5364?style=for-the-badge&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/arthurdmc2005/Twiiter-Simplificado">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/><br/>
+      <p>✨ Mais projetos em breve...</p>
+      <br/>
+      <a href="https://github.com/arthurdmc2005?tab=repositories">
+        <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-0096c7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
