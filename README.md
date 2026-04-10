@@ -117,7 +117,7 @@ public class Arthur extends Developer {
     <td width="50%" valign="top">
       <h3 align="center">🤖 Academic</h3>
       <p align="center">
-        Repositório acadêmico com exercícios, projetos e estudos desenvolvidos ao longo do curso de Sistemas de Informação na UFVJM.
+        App-Web responsável por fazer o controle da Liga Acadêmica de Sistemas de Informação. Isso envolve o controle de membros, contabilização de horas, armazenamento de documentos, e tudo que envolve a Liga.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
