@@ -111,24 +111,22 @@ public class Arthur extends Developer {
 
 ## 🗂️ Projetos em Destaque
 
-> ✏️ **Substitua** `NOME-DO-REPO` pelo nome exato dos seus repositórios no GitHub.
 
 <div align="center">
 
 <a href="https://github.com/arthurdmc2005/Academic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=NOME-DO-REPO-1&theme=tokyonight&border_radius=10&show_description=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=Academic&theme=tokyonight&border_radius=10&show_description=true" />
 </a>
 &nbsp;
 <a href="https://github.com/arthurdmc2005/Projeto-POO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=NOME-DO-REPO-2&theme=tokyonight&border_radius=10&show_description=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=Projeto-POO&theme=tokyonight&border_radius=10&show_description=true" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/arthurdmc2005/Twitter-Simplificado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=NOME-DO-REPO-3&theme=tokyonight&border_radius=10&show_description=true" />
+<a href="https://github.com/arthurdmc2005/Twiiter-Simplificado">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurdmc2005&repo=Twiiter-Simplificado&theme=tokyonight&border_radius=10&show_description=true" />
 </a>
-&nbsp;
 
 <br/><br/>
 
