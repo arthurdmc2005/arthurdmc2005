@@ -1,99 +1,167 @@
-# 👩🏻‍💻 Arthur Dias
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arthur%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20FullStack%20%7C%20Back-End%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
-Me chamo Arthur Dias Moreira Correa, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informações na UFVJM. Sou apaixonado por tecnologia com foco em Desenvolvimento Back-End. Tenho experiência com Java, Spring Framework, bancos de dados PostgreSQL e SQLite, além de familiaridade com Git/GitHub e metodologias ágeis. Também tenho um pouco de experiência de desenvolvimento Web, tendo conhecimento de HTML,CSS e JavaScript. Busco constantemente aprimorar meus conhecimentos técnicos e desenvolver minha carreira na área de tecnologia. Nível de inglês: básico (A2).
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+Dias+%F0%9F%91%8B;Desenvolvedor+FullStack+apaixonado;Estudante+de+Sistemas+de+Informa%C3%A7%C3%B5es+%7C+UFVJM;Back-End+%7C+Java+%7C+Spring+Framework)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://github.com/arthurdmc2005">
+  <img src="https://komarev.com/ghpvc/?username=arthurdmc2005&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=00b4d8&style=for-the-badge" alt="Visualizações do Perfil" />
+</a>
+<a href="https://github.com/arthurdmc2005?tab=repositories&sort=stargazers">
+  <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/arthurdmc2005?color=0096c7&style=for-the-badge&labelColor=0077b6&logo=star&label=Estrelas"/>
+</a>
+<a href="https://github.com/arthurdmc2005?tab=followers">
+  <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/arthurdmc2005?color=023e8a&labelColor=03045e&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre Mim
+
+```java
+public class Arthur extends Developer {
+
+    String nome        = "Arthur Dias Moreira Correa";
+    int    idade       = 20;
+    String localidade  = "Minas Gerais, Brasil 🇧🇷";
+    String faculdade   = "Sistemas de Informações — UFVJM";
+    String foco        = "Back-End Development";
+    String ingles      = "Básico (A2)";
+
+    String[] interesses = {
+        "Java & Spring Framework",
+        "Banco de Dados (PostgreSQL, SQLite)",
+        "APIs RESTful",
+        "Metodologias Ágeis",
+        "Open Source"
+    };
+
+    String objetivo = "Crescer como desenvolvedor e construir software que faça diferença.";
+}
+```
+
+---
+
+## 🚀 Linguagens & Tecnologias
+
+### 🔧 Back-End
 <p align="left">
-    </a>
-    </a> 
-    <a href="https://github.com/arthurdmc2005?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/arthurdmc2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=arthurdmc2005&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdmc2005&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Spring" title="Spring Framework" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="SQLite" title="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 </p>
+
+### 🌐 Front-End
+<p align="left">
+  <img alt="HTML5" title="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+</p>
+
+### 🛠️ Ferramentas & Outros
+<p align="left">
+  <img alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img alt="Linux" title="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+  <img alt="VS Code" title="VS Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=arthurdmc2005&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" 
+  alt="GitHub Stats"
+/>
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdmc2005&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9&border_radius=10" 
+  alt="Top Languages"
+/>
+
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=arthurdmc2005&theme=tokyonight&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=arthurdmc2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" 
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+## 📈 Atividade de Contribuições
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=arthurdmc2005&theme=tokyo-night&hide_border=true&radius=8" 
+  alt="Gráfico de Atividade"
+/>
+
+</div>
+
+---
+
+## 💡 Uma frase que me inspira
+
+<div align="center">
+
+> *"Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem."*  
+> — **Martin Fowler**
+
+</div>
+
+---
+
+## 📬 Entre em Contato
+
+<div align="center">
+
+<a href="https://github.com/arthurdmc2005">
+  <img src="https://img.shields.io/badge/GitHub-arthurdmc2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/seu-linkedin/">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
