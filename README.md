@@ -121,7 +121,7 @@ public class Arthur extends Developer {
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Acadêmico-6c757d?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-6c757d?style=for-the-badge&logoColor=Green"/>
       </p>
       <p align="center">
         <a href="https://github.com/arthurdmc2005/Academic">
@@ -149,7 +149,7 @@ public class Arthur extends Developer {
     <td width="50%" valign="top">
       <h3 align="center">🐦 Twiiter-Simplificado</h3>
       <p align="center">
-        Simulação simplificada de uma rede social no estilo Twitter, com funcionalidades de postagem e interação entre usuários.
+        Simulação de um Twitter-Simplificado com o objetivo de aplicar conceitos de Spring Security 6 e utilização de autenticação oAuth6 e Tokens.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
